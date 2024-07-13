@@ -1,0 +1,25 @@
+Last login: Thu Jul 11 16:37:28 on console
+coketoledo@MacBook-Pro-de-Jorge ~ % >....                                       
+button {
+    padding: 0.5rem 1rem;
+    background-color: #0a84ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #065bb5;
+}
+
+#results {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+#results-content p {
+    margin: 0.5rem 0;
+}
