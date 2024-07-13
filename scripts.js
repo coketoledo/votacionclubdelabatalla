@@ -1,5 +1,4 @@
-Last login: Fri Jul 12 22:44:11 on ttys000
-coketoledo@MacBook-Pro-de-Jorge ~ % // scripts.js
+// scripts.js
 let votes = {
     team1: 0,
     team2: 0,
@@ -16,9 +15,3 @@ function updateResults() {
     document.getElementById('team2-votes').innerText = votes.team2;
     document.getElementById('team3-votes').innerText = votes.team3;
 }
-
-
-
-
-
-

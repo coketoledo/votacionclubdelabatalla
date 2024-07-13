@@ -1,5 +1,33 @@
-Last login: Thu Jul 11 16:37:28 on console
-coketoledo@MacBook-Pro-de-Jorge ~ % >....                                       
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #e63946;
+    color: white;
+    padding: 1rem;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 2rem;
+}
+
+#voting {
+    margin: 2rem 0;
+}
+
+.team {
+    margin: 1rem 0;
+}
+
 button {
     padding: 0.5rem 1rem;
     background-color: #0a84ff;
